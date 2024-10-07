@@ -1,0 +1,81 @@
+Here’s a more structured and concise format for your profile, similar to the format of the example you provided:
+
+STEFANO DELLA PIETRA
+Software Engineer
+Santa Monica, United States
+Phone: +1 9179522594 | Email: ste.dellapietra@gmail.com | GitHub: [YourGitHubProfile]
+
+Education
+
+Bachelor of Science - Computer Science
+University of London (Oct 2021 - Present)
+Focused on machine learning, data analysis, and software development with a specialization in natural language processing (NLP) and AI.
+
+Certificate - Data Analytics
+Thinkful, Los Angeles (Jan 2020 - Jan 2021)
+Skills acquired: Microsoft Excel, SQL, PostgreSQL, Tableau, Python, Data Visualization, Statistical Analysis.
+
+Experience
+
+IT Specialist
+Panorama Group - Hotels & Residence (Feb 2024 - Present)
+Location: Maiori, Italy | Industry: Hospitality
+
+	•	Centralized data flows to improve hotel operations and efficiency.
+	•	Automated key tasks using Python, reducing manual effort and boosting accuracy.
+	•	Managed IT infrastructure and ensured reliable system operations.
+	•	Developed scripts for staff scheduling, inventory, and guest services.
+	•	Provided timely technical support, resolving IT issues and maintaining smooth operations.
+
+Freelance Linguist
+Deluxe (Jan 2015 - Nov 2019)
+Location: Los Angeles, United States | Industry: Media & Entertainment
+
+	•	Ensured high-quality linguistic content for media projects.
+	•	Refined content to meet cultural and audience demands.
+	•	Conducted thorough language assessments to meet internal standards.
+
+Projects
+
+HotelOPS Dashboard
+Developed a real-time analytics dashboard for hotel management, focusing on operational KPIs.
+Link: [GitHubProjectLink]
+
+AI Assistant for Personal Workflow
+Created an AI-driven tool using LangChain and Whisper Turbo to automate personal productivity tasks.
+Link: [GitHubProjectLink]
+
+Skills
+
+	•	Python
+	•	SQL
+	•	Git
+	•	Data Centralization
+	•	Natural Language Processing (NLP)
+	•	Automation
+	•	Team Collaboration
+	•	Communication Skills
+
+Achievements
+
+	•	[Achievement Name] - Description of achievement
+	•	[Achievement Name] - Description of achievement
+
+Certifications
+
+	•	AWS Certified Solutions Architect
+	•	[Other Certifications]
+
+Languages
+
+	•	English - Fluent
+	•	Italian - Native
+	•	Spanish - Intermediate
+
+Interests
+
+	•	AI and Machine Learning
+	•	NLP and Human-Computer Interaction
+	•	Hospitality Tech Solutions
+	•	Fitness
+

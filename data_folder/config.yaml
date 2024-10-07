@@ -1,10 +1,10 @@
 remote: true
 
 experienceLevel:
-  internship: false
+  internship: true
   entry: true
   associate: true
-  mid-senior level: true
+  mid-senior level: false
   director: false
   executive: false
 
@@ -12,22 +12,24 @@ jobTypes:
   full-time: true
   contract: false
   part-time: false
-  temporary: true
-  internship: false
+  temporary: false
+  internship: true
   other: false
-  volunteer: true
+  volunteer: false
 
 date:
   all time: false
   month: false
-  week: false
-  24 hours: true
+  week: true
+  24 hours: false
 
 positions:
   - Software engineer
+  - Internship
 
 locations:
-  - Germany
+  - United States
+  - Los Angeles
 
 apply_once_at_company: true
 
@@ -47,4 +49,3 @@ job_applicants_threshold:
 
 llm_model_type: openai
 llm_model: 'gpt-4o-mini'
-# llm_api_url: https://api.pawan.krd/cosmosrp/v1'

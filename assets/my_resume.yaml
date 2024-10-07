@@ -1,0 +1,136 @@
+personal_information:
+  name: "Stefano"
+  surname: "Della Pietra"
+  date_of_birth: "[Your Date of Birth]"
+  country: "United States"
+  city: "Santa Monica"
+  address: "[Your Address]"
+  zip_code: "[Your Zip Code]"
+  phone_prefix: "+1"
+  phone: "9179522594"
+  email: "ste.dellapietra@gmail.com"
+  github: "[Your GitHub Profile URL]"
+  linkedin: "[Your LinkedIn Profile URL]"
+
+education_details:
+  - education_level: "Bachelor of Science"
+    institution: "University of London"
+    field_of_study: "Computer Science (Data Science)"
+    final_evaluation_grade: "TBD"
+    year_of_completion: "2024"
+    start_date: "October 2021"
+    additional_info:
+      exam:
+        Data_Science: "TBD"
+        Machine_Learning_and_Neural_Networks: "TBD"
+        Databases_and_Advanced_Data_Techniques: "TBD"
+        Natural_Language_Processing: "TBD"
+
+  - education_level: "Certificate"
+    institution: "Thinkful"
+    field_of_study: "Data Analytics"
+    year_of_completion: "2021"
+    start_date: "January 2020"
+    additional_info:
+      exam:
+        Excel_and_Data_Visualization: "TBD"
+        SQL_and_PostgreSQL: "TBD"
+        Python_and_Data_Modeling: "TBD"
+
+experience_details:
+  - position: "IT Specialist"
+    company: "Panorama Group - Hotels & Residence"
+    employment_period: "February 2024 - Present"
+    location: "Maiori, Italy"
+    industry: "Hospitality"
+    key_responsibilities:
+      - responsibility: "Centralized data flows to enhance hotel operations."
+      - responsibility: "Automated key tasks using Python."
+      - responsibility: "Managed IT infrastructure and system operations."
+    skills_acquired:
+      - "Python Automation"
+      - "Data Centralization"
+      - "IT Infrastructure Management"
+
+  - position: "Freelance Linguist"
+    company: "Deluxe"
+    employment_period: "January 2015 - November 2019"
+    location: "Los Angeles, CA"
+    industry: "Media & Entertainment"
+    key_responsibilities:
+      - responsibility: "Ensured accurate, high-quality linguistic content."
+      - responsibility: "Refined content for cultural accuracy."
+      - responsibility: "Delivered engaging linguistic quality for media projects."
+    skills_acquired:
+      - "Content Refinement"
+      - "Linguistic Quality Assurance"
+      - "Cross-Cultural Communication"
+
+projects:
+  - name: "HotelOPS Dashboard"
+    description: "A real-time analytics dashboard for hotel management, automating key operational KPIs."
+    link: "[Project Link]"
+
+  - name: "AI Assistant for Personal Workflow"
+    description: "Developed an AI-driven tool to automate personal productivity tasks using LangChain and Whisper Turbo."
+    link: "[Project Link]"
+
+achievements:
+  - name: "[Achievement Name]"
+    description: "[Achievement Description]"
+
+certifications:
+  - name: "[Certification Name]"
+    description: "[Certification Description]"
+
+languages:
+  - language: "English"
+    proficiency: "Fluent"
+  - language: "Italian"
+    proficiency: "Native"
+  - language: "Spanish"
+    proficiency: "Intermediate"
+
+interests:
+  - "AI and Machine Learning"
+  - "NLP and Human-Computer Interaction"
+  - "Hospitality Tech Solutions"
+  - "Gym and Fitness"
+
+availability:
+  notice_period: "1 month"
+
+salary_expectations:
+  salary_range_usd: "[Salary Range]"
+
+self_identification:
+  gender: "Male"
+  pronouns: "He/Him"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "White"
+
+legal_authorization:
+  eu_work_authorization: "[Yes/No]"
+  us_work_authorization: "[Yes/No]"
+  requires_us_visa: "[Yes/No]"
+  requires_us_sponsorship: "[Yes/No]"
+  requires_eu_visa: "[Yes/No]"
+  legally_allowed_to_work_in_eu: "[Yes/No]"
+  legally_allowed_to_work_in_us: "[Yes/No]"
+  requires_eu_sponsorship: "[Yes/No]"
+  requires_canada_visa: "[Yes/No]"
+  legally_allowed_to_work_in_canada: "[Yes/No]"
+  requires_canada_sponsorship: "[Yes/No]"
+  uk_work_authorization: "[Yes/No]"
+  requires_uk_visa: "[Yes/No]"
+  legally_allowed_to_work_in_uk: "[Yes/No]"
+  requires_uk_sponsorship: "[Yes/No]"
+
+work_preferences:
+  remote_work: "[Yes/No]"
+  in_person_work: "[Yes/No]"
+  open_to_relocation: "[Yes/No]"
+  willing_to_complete_assessments: "[Yes/No]"
+  willing_to_undergo_drug_tests: "[Yes/No]"
+  willing_to_undergo_background_checks: "[Yes/No]"
